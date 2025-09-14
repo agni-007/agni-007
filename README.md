@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/user-attachments/assets/424de44a-c292-4295-9579-4ca2dc1adb13)](https://agni-007.io)
+[![MasterHead](https://github.com/user-attachments/assets/b88fbb60-b3f6-4343-923e-0b309b6c60d4)](https://agni-007.io)
 
 <h1 align="center">Hi 👋, I'm Agnivesh</h1>
 <h3 align="center">A passionate Computer science Engineering student</h3>
