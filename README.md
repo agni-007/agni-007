@@ -1,5 +1,4 @@
-[![MasterHead](<img width="1195" height="404" alt="image" src="https://github.com/user-attachments/assets/39329831-df0f-46e9-8683-b5dde3ed1e53" />
-)](https://agni-007.io)
+[![MasterHead](https://github.com/user-attachments/assets/39329831-df0f-46e9-8683-b5dde3ed1e53)](https://agni-007.io)
 
 <h1 align="center">Hi 👋, I'm Agnivesh</h1>
 <h3 align="center">A passionate Computer science Engineering student</h3>
